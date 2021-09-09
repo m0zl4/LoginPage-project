@@ -1,4 +1,4 @@
-package learn.dzaky.beginningproject
+package learn.latief.beginningproject
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4

@@ -1,4 +1,4 @@
-package learn.dzaky.beginningproject
+package learn.latief.beginningproject
 
 import org.junit.Test
 
